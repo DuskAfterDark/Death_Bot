@@ -1,1 +1,3 @@
-# Death_Bot_Py_Source_Code
+# Death Bot Source Code
+
+Full code of Death Bot.
